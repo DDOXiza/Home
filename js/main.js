@@ -1,10 +1,3 @@
-/*
-作者: imsyy
-主页：https://www.imsyy.top/
-GitHub：https://github.com/imsyy/home
-版权所有，请勿删除
-*/
-
 //弹窗样式
 iziToast.settings({
     timeout: 10000,
@@ -300,7 +293,7 @@ $('#switchmore').on('click', function () {
     } else {
         $('#container').attr('class', 'container');
         $("#change").html("Hello&nbsp;World&nbsp;!");
-        $("#change1").html("一个建立于 21 世纪的小站，存活于互联网的边缘");
+        $("#change1").html("If life gives you a lemon, you should add some salt and agave.");
     }
 });
 
